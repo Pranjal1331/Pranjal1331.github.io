@@ -1,0 +1,54 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.navbar {
+	
+	border: none;
+	background-color: gray
+}
+
+body {
+	background-color: #fefafc;
+	color: rgb(22, 21, 21);
+}
+
+#header {
+	border: 2px solid black;
+	border-radius: 0;
+}
+.center {
+	width: 90%;
+	background-color: grey;
+
+}
+
+.container {
+	background-color: grey;
+}
+
+.text-center {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+h2 {
+	text-align: center;
+}
+
+#myNavbar ul li a {
+	color: #000;
+}
+#scroll
+{
+	border-color: #000;
+}
+.navbar-brand {
+	font-size: 30px;
+}
+#head{
+	color: #000;
+	font-weight: bold;
+}
